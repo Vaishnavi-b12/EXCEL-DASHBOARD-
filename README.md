@@ -5,6 +5,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 Dataset used
 
+[Vrinda Store Data Analysis (1).csv](https://github.com/Vaishnavi-b12/EXCEL-DASHBOARD-/files/11924576/Vrinda.Store.Data.Analysis.1.csv)
 
 
 Questions (KPIs)
