@@ -26,6 +26,7 @@ Merge all pivot tables into one dashboard and apply slicer to make dashboard int
 
 Dashboard
 [excel dashboard.csv](https://github.com/Vaishnavi-b12/EXCEL-DASHBOARD-/files/11924565/excel.dashboard.csv)
+<img width="1039" alt="Vrinda Store Sales" src="https://github.com/Vaishnavi-b12/EXCEL-DASHBOARD-/assets/131941299/287d09c0-d88a-4133-9a2b-d405020ec8b4">
 
 PROJECT INSIGHT:
 Women customers are more likely to buy products compared to men (~65%).
